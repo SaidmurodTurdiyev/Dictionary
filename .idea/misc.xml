@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable-night/actionbar_background.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable-night/ic_add.xml" value="0.15" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable-night/ic_play.xml" value="0.575" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable-night/my_button.xml" value="0.1" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable-notnight/ic_back.xml" value="0.15" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable-notnight/ic_checked.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable-notnight/ic_menu.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable-notnight/my_button.xml" value="0.1" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/actionbar_background.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/background_with_corner.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic__games.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_add.xml" value="0.15" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_arxive.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_back.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_back_alternative.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_baseline_play_circle_filled_24.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_change.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_checkbox.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_checked.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_delete.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_edit.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_home.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_info.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_list.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_menu.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_more.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_night.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_play.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_popupmenu.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/ic_settings.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/my_button.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/raund_background.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/drawable/select_item.xml" value="0.17037037037037037" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/layout/fragment_dictionary_info.xml" value="0.1" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/layout/fragment_dictionary_item.xml" value="0.1" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/layout/fragment_select_language.xml" value="0.1" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/layout/fragment_setting.xml" value="0.1" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/layout/fragment_word_item.xml" value="0.2" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/layout/fragment_words_learn.xml" value="0.15" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/layout/item_word.xml" value="0.1" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/menu/main_menu.xml" value="0.12777777777777777" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/menu/menu_item_dictionary.xml" value="0.12777777777777777" />
+        <entry key="..\:/androidproekt/MyNewWords/app/src/main/res/menu/word_menu.xml" value="0.12777777777777777" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

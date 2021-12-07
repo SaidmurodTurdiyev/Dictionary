@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">My New Words</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dicinory_info_text"># Info</string>
+    <string name="text_button_add">Add</string>
+    <string name="text_name">Name</string>
+    <string name="text_button_ok">OK</string>
+    <string name="text_actionbar_dictionary">Dictionaries</string>
+    <string name="text_actionbar_country">Countries</string>
+    <string name="text_button_next">next</string>
+    <string name="text_item_dictionary">Dictionary</string>
+    <string name="text_button_open_list">Word List</string>
+    <string name="text_button_learn">Learn Words</string>
+    <string name="button_text_cancel">Cancel</string>
+    <string name="txt_floating_btn_delete">delete</string>
+    <string name="text_button_delete">Delete</string>
+</resources>

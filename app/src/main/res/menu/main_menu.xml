@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home_menu"
+        android:icon="@drawable/ic_home"
+        android:title="Home" />
+    <item
+        android:id="@+id/change_language"
+        android:icon="@drawable/ic_change"
+        android:title="Change Language" />
+    <item
+        android:id="@+id/game"
+        android:icon="@drawable/ic__games"
+        android:title="Game" />
+     <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_settings"
+        android:title="Setting" />
+    <item
+        android:id="@+id/arxiv"
+        android:icon="@drawable/ic_arxive"
+        android:title="Arxive" />
+    <item
+        android:id="@+id/app_info"
+        android:icon="@drawable/ic_info"
+        android:title="App Info" />
+</menu>
